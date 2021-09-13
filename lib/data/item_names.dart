@@ -1,0 +1,33 @@
+
+List<String> itemNames(){
+  return [
+    "Pawpaw",
+    "Banana",
+    "Pineapple",
+    "Orange",
+    "Ginger",
+    "Apple",
+    "Mango",
+    "Peach",
+    "Carrot",
+    "Avocado",
+    "Grapes",
+    "Black Berry",
+    "Straw Berry",
+    "Blue Berry",
+    "Cocoa",
+    "Lime",
+    "Blueberries",
+    "Dragon fruit",
+    "Lychee",
+    "Durian",
+    "Cherries",
+    "Olives",
+    "Watermelon",
+    "Coconut",
+    "Guava",
+    "Pomegranates",
+    "Kiwi",
+    "Grapefruit",
+  ];
+}
